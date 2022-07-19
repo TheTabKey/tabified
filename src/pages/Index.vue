@@ -13,7 +13,7 @@
           <h3>An easy rust server.</h3>
           <h6 style="margin-top: 200px;">
             Direct Connect:
-            <a href="steam://connect/tabified.net:28015" target="_blank">
+            <a href="steam://connect/147.135.86.16:28015" target="_blank">
               tabified.net:28015 </a
             >
           </h6>
@@ -35,7 +35,7 @@
         <div class="row justify-content-md-center">
           <div class="col-md-12 col-lg-8">
             <h2 class="title">Server Details</h2>
-            <h5 class="description">Solo/Duo
+            <h5 class="description">Max Group Size: 6
 - 3x components and gather
 - autosplitter/quicksmelt/instant craft
 
@@ -48,6 +48,8 @@
 - Full wipes automatically every Friday at 3PM EST
 
 - Boats and minicopters can spawn
+
+-Custom Train Event
             </h5>
           </div>
         </div>
