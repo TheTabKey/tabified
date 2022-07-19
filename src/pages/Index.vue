@@ -43,13 +43,13 @@
 
 - skinbox
 
-- 2800m map size
+- 3200m map size
 
 - Full wipes automatically every Friday at 3PM EST
 
 - Boats and minicopters can spawn
 
--Custom Train Event
+- Custom Train Event
             </h5>
           </div>
         </div>
