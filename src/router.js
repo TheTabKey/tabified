@@ -15,15 +15,17 @@ export default new Router({
       components: {
         default: Starter,
         header: StarterNavbar,
-        footer: StarterFooter,
-      path: '/discord',
-      redirect: 'https://discord.com/invite/yV3pys7Nma'
-    },
+        footer: StarterFooter
+      },
       props: {
         header: { colorOnScroll: 400 },
         footer: { backgroundColor: 'black' }
       }
-    }
+    },
+    {
+    path: '/discord',
+    redirect: 'https://discord.com/invite/yV3pys7Nma'
+  },
   ],
   scrollBehavior: to => {
     if (to.hash) {
