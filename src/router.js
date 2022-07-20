@@ -25,7 +25,7 @@ export default new Router({
     {
     path: '/discord',
     redirect: 'https://discord.com/invite/yV3pys7Nma'
-  },
+  }
   ],
   scrollBehavior: to => {
     if (to.hash) {
