@@ -15,8 +15,10 @@ export default new Router({
       components: {
         default: Starter,
         header: StarterNavbar,
-        footer: StarterFooter
-      },
+        footer: StarterFooter,
+      path: '/discord',
+      redirect: 'https://discord.com/invite/yV3pys7Nma'
+    },
       props: {
         header: { colorOnScroll: 400 },
         footer: { backgroundColor: 'black' }
