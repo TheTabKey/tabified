@@ -13,8 +13,8 @@
           <h3>An easy rust server.</h3>
           <h6 style="margin-top: 200px;">
             Direct Connect:
-            <a href="steam://connect/147.135.86.16:28015" target="_blank">
-              tabified.net:28015 </a
+            <a href="steam://connect/3x.tabified.net:28015" target="_blank">
+              3x.tabified.net:28015 </a
             >
           </h6>
         </div>
